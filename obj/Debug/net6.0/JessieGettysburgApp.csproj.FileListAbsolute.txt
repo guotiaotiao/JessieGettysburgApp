@@ -1,0 +1,15 @@
+/Users/guojiao/Desktop/tech-interview/Gettysbourg题/JessieGettysburgApp/bin/Debug/net6.0/JessieGettysburgApp
+/Users/guojiao/Desktop/tech-interview/Gettysbourg题/JessieGettysburgApp/bin/Debug/net6.0/JessieGettysburgApp.deps.json
+/Users/guojiao/Desktop/tech-interview/Gettysbourg题/JessieGettysburgApp/bin/Debug/net6.0/JessieGettysburgApp.runtimeconfig.json
+/Users/guojiao/Desktop/tech-interview/Gettysbourg题/JessieGettysburgApp/bin/Debug/net6.0/JessieGettysburgApp.dll
+/Users/guojiao/Desktop/tech-interview/Gettysbourg题/JessieGettysburgApp/bin/Debug/net6.0/JessieGettysburgApp.pdb
+/Users/guojiao/Desktop/tech-interview/Gettysbourg题/JessieGettysburgApp/obj/Debug/net6.0/JessieGettysburgApp.csproj.AssemblyReference.cache
+/Users/guojiao/Desktop/tech-interview/Gettysbourg题/JessieGettysburgApp/obj/Debug/net6.0/JessieGettysburgApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guojiao/Desktop/tech-interview/Gettysbourg题/JessieGettysburgApp/obj/Debug/net6.0/JessieGettysburgApp.AssemblyInfoInputs.cache
+/Users/guojiao/Desktop/tech-interview/Gettysbourg题/JessieGettysburgApp/obj/Debug/net6.0/JessieGettysburgApp.AssemblyInfo.cs
+/Users/guojiao/Desktop/tech-interview/Gettysbourg题/JessieGettysburgApp/obj/Debug/net6.0/JessieGettysburgApp.csproj.CoreCompileInputs.cache
+/Users/guojiao/Desktop/tech-interview/Gettysbourg题/JessieGettysburgApp/obj/Debug/net6.0/JessieGettysburgApp.dll
+/Users/guojiao/Desktop/tech-interview/Gettysbourg题/JessieGettysburgApp/obj/Debug/net6.0/refint/JessieGettysburgApp.dll
+/Users/guojiao/Desktop/tech-interview/Gettysbourg题/JessieGettysburgApp/obj/Debug/net6.0/JessieGettysburgApp.pdb
+/Users/guojiao/Desktop/tech-interview/Gettysbourg题/JessieGettysburgApp/obj/Debug/net6.0/JessieGettysburgApp.genruntimeconfig.cache
+/Users/guojiao/Desktop/tech-interview/Gettysbourg题/JessieGettysburgApp/obj/Debug/net6.0/ref/JessieGettysburgApp.dll
